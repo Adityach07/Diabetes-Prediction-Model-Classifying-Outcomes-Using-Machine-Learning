@@ -1,4 +1,4 @@
-# ml-project-on-classification
+# Diabetes Prediction Model: Classifying Outcomes Using Machine Learning
 
 
 
